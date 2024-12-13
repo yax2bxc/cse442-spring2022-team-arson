@@ -1,5 +1,5 @@
 # Run
-1. Go to /backend/
+1. Go to /backend/ folder
 2. Install the required packages
 `pip install requirements.txt`
 3. Type `flask run` and run in the terminal
