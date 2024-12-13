@@ -1,3 +1,9 @@
-ZenHub Link: https://app.zenhub.com/workspaces/arson-61fb7c68b0e8d8001a6aa7b5/board?invite=true
-
-Figma Link: https://www.figma.com/file/hwsv7GxeNLCfVk1SKyU8RT/Mosaic?node-id=0%3A1
+# Run
+1. Go to /backend/
+2. Install the required packages
+`pip install requirements.txt`
+3. Type `flask run` and run in the terminal
+4. In the browser navigate to localhost
+5. Signup and create account
+6. Login with created account
+7. Type a word to create a mosiac
